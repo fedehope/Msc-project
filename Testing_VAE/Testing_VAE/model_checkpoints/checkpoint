@@ -1,0 +1,2 @@
+model_checkpoint_path: "DFCVAmodel-29_1_22-e2000-aurora-latentdims10"
+all_model_checkpoint_paths: "DFCVAmodel-29_1_22-e2000-aurora-latentdims10"
